@@ -13,7 +13,7 @@ Hi, I’m **Yousf Idkaidek**.
 - 💻 Beginner programmer exploring **Python, Java, C, C++**, and web technologies.  
 - 🌱 Currently learning **Git, GitHub, and project building**.  
 - 🎮 Hobby: Coding, exploring GNU/Linux, and tech stuff.  
-- ✉️ Find me on Telegram: [Yousf](https://t.me/spxd007)  
+
 
 ---
 

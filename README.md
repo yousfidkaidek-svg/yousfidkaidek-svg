@@ -38,7 +38,4 @@ Hi, I’m **Yousf Idkaidek**.
 ---
 
 ### 🌐 Find Me Online
-
-[![Telegram](https://img.shields.io/badge/Telegram-0078D4?style=flat&logo=telegram&logoColor=white)](https://t.me/spxd007)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YousfIdkaidek)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YousfIdkaidek)  

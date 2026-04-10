@@ -10,7 +10,7 @@
 ### 👋 About Me
 Hi, I’m **Yousf Idkaidek**.  
 - 🖥️ Computer Science student at **Birzeit University**.  
-- 💻 Beginner programmer exploring **Python, Java, C, C++**, and web technologies.  
+- 💻 Beginner programmer exploring **Python, Java, C, C++**
 - 🌱 Currently learning **Git, GitHub, and project building**.  
 - 🎮 Hobby: Coding, exploring GNU/Linux, and tech stuff.  
 

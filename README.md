@@ -19,15 +19,7 @@ Hi, I’m **Yousf Idkaidek**.
 ### 🛠 Tools & Languages I Use
 
 **Programming Languages:** Python, Java, C, C++  
-**Web & Scripting:** HTML, CSS, JavaScript, Bash  
-**Databases:** SQLite, Firebase  
-**Editors & IDEs:** VSCode, Sublime Text, Neovim  
-**Other Tools:** Git, Figma, Photoshop, Gimp, Lightroom  
-**Platforms:** Windows, GNU/Linux  
-
----
-
-
-
+**Web & Scripting:** HTML, CSS, JavaScript 
+**Editors & IDEs:** VSCode   
 ### 🌐 Find Me Online
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YousfIdkaidek)  
